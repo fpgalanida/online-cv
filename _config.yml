@@ -18,10 +18,9 @@ pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and pro
 
 #sidebar links
 email: fpgalanida@outlook.com
-phone: -
+phone: 000 000 000
 website: fpgalanida.github.io/online-cv/ #do not add http://
 linkedin: fpgalanida
 github: fpgalanida
-twitter: -
 
 #Update all the sections by editing the files inside _includes folder.
