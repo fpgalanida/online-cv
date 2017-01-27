@@ -1,15 +1,16 @@
 title: Curriculum Vitae
 url: 'http://fpgalanida.github.io/online-cv/'
-baseurl: '/online-cv' #change it according to your repository name
+#baseurl: '/online-cv' #change it according to your repository name
+baseurl: '/cv' #change it according to your repository name
 #baseurl: 'http://127.0.0.1:4000/' #change it according to your repository name
 
 
 # Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
-style: styles-2 #default?
+#style: styles-2 #default
 #style: styles-3 #green
 #style: styles-4 #violet
 #style: styles-5 #orange
-#style: styles-6 #dark-green
+style: styles-6 #dark-green
 
 
 #Profile information
